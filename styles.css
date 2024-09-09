@@ -1,0 +1,35 @@
+html,
+body {
+  background: #f6f6f6;
+
+  height: 100%;
+  width: 100vw;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #4e4c4e;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-width {
+  width: 80%;
+
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.selected-option {
+  font-size: 40px;
+  font-weight: bold;
+}
