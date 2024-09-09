@@ -14,6 +14,7 @@ To match real-world situations, project guidelines will differ in difficulty and
 A user may select the difficulty before generating a project, or choose to tackle anything that comes their way!
 
 ## Todo (in no specific order)
+- Fix color coding of theme
 - Disable generate button while text is printing
   - Unresolved Promises are causing several print operations to occur at once
 - Style controls
